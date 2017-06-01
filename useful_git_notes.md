@@ -29,3 +29,5 @@
 
 >git push: push the commit file to **remote** repo
 
+[git_remote|git_pull|git_push](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+
